@@ -1,5 +1,5 @@
-// Dado um array de inteiros, retorne um novo array tal que cada elemento no índice i do novo array seja o produto de todos os números no array original, exceto aquele em i.
-// Por exemplo, se nossa entrada fosse [1, 2, 3, 4, 5], a saída esperada seria [120, 60, 40, 30, 24]. Se nossa entrada fosse [3, 2, 1], a saída esperada seria [2, 3, 6].
+/* Dado um array de inteiros, retorne um novo array tal que cada elemento no índice i do novo array seja o produto de todos os números no array original, exceto aquele em i.
+ Por exemplo, se nossa entrada fosse [1, 2, 3, 4, 5], a saída esperada seria [120, 60, 40, 30, 24]. Se nossa entrada fosse [3, 2, 1], a saída esperada seria [2, 3, 6]. */
 
 #include <iostream>
 #include <vector>
